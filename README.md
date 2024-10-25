@@ -1,1 +1,2 @@
 # Predicting-California-Housing-Prices-A-Comprehensive-Analysis-using-Deep-Learning
+This project utilizes deep learning to predict housing prices in California, analyzing a comprehensive dataset with features such as location, size, and amenities. It involves data preprocessing, feature engineering, and model evaluation using metrics like Mean Squared Error (MSE). The aim is to deliver accurate predictions and valuable insights for potential buyers and investors in the housing market.
